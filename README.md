@@ -1,1 +1,1 @@
-Hello World, welcome to The Website :-)
+Hello World, welcome to TheWebsite :-)
