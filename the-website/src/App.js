@@ -19,9 +19,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>
+          Hello Jacob :-{'\)'}
+        </h1>
         <p>
           {/* Edit <code>src/App.js</code> and save to reload. */}
-          Welcome to 'TheWebsite', you are viewing this on
+          Welcome to 'TheWebsite'
         </p>
         <a
           className="App-link"
